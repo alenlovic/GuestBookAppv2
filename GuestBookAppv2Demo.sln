@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBookAppv2", "GuestBookAppv2\GuestBookAppv2.csproj", "{C3599BE9-1383-4FEC-BED9-E6B10A03E6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBookLibrary", "GuestBookLibrary\GuestBookLibrary.csproj", "{460EDC97-0B52-4C1C-8618-34BFF527A0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3599BE9-1383-4FEC-BED9-E6B10A03E6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3599BE9-1383-4FEC-BED9-E6B10A03E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3599BE9-1383-4FEC-BED9-E6B10A03E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3599BE9-1383-4FEC-BED9-E6B10A03E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460EDC97-0B52-4C1C-8618-34BFF527A0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460EDC97-0B52-4C1C-8618-34BFF527A0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460EDC97-0B52-4C1C-8618-34BFF527A0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460EDC97-0B52-4C1C-8618-34BFF527A0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DE4221-D779-4DC7-B7E9-64B763606C66}
+	EndGlobalSection
+EndGlobal
